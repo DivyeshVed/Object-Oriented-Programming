@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="checkstyle-8.28">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/HW4/src/checkstyle-8.28.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
